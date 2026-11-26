@@ -38,10 +38,6 @@ Open the terminal inside the project folder and run:
 
 Now activate the environment:
 
-#### Windows
-
-		langgraph_env3\Scripts\activate
-
 
 ---
 
